@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8D38D3AB-AC2F-4EC6-99F7-B5781FBFCE54}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Mtype.Main", "Mtype.Main\Mtype.Main.fsproj", "{33CF16C3-E939-4537-886D-BF0AE124ECCC}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Mtype.Test", "Mtype.Test\Mtype.Test.fsproj", "{30EC9ECF-DDB1-4564-B07D-30D43362CBA8}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Mtype.Player", "Mtype.Player\Mtype.Player.fsproj", "{2997CA56-B8AD-4D69-AD99-A5B77838B287}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Mtype.Logging", "Mtype.Logging\Mtype.Logging.fsproj", "{04A63DD9-32FE-464D-8A9E-5A6D2A88D3B9}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Mtype.GenCache", "Mtype.GenCache\Mtype.GenCache.fsproj", "{6943D34E-E469-44C2-AF5D-22E5BD15F03C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33CF16C3-E939-4537-886D-BF0AE124ECCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CF16C3-E939-4537-886D-BF0AE124ECCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CF16C3-E939-4537-886D-BF0AE124ECCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CF16C3-E939-4537-886D-BF0AE124ECCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30EC9ECF-DDB1-4564-B07D-30D43362CBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EC9ECF-DDB1-4564-B07D-30D43362CBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30EC9ECF-DDB1-4564-B07D-30D43362CBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30EC9ECF-DDB1-4564-B07D-30D43362CBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2997CA56-B8AD-4D69-AD99-A5B77838B287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2997CA56-B8AD-4D69-AD99-A5B77838B287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2997CA56-B8AD-4D69-AD99-A5B77838B287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2997CA56-B8AD-4D69-AD99-A5B77838B287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A63DD9-32FE-464D-8A9E-5A6D2A88D3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A63DD9-32FE-464D-8A9E-5A6D2A88D3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A63DD9-32FE-464D-8A9E-5A6D2A88D3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A63DD9-32FE-464D-8A9E-5A6D2A88D3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6943D34E-E469-44C2-AF5D-22E5BD15F03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6943D34E-E469-44C2-AF5D-22E5BD15F03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6943D34E-E469-44C2-AF5D-22E5BD15F03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6943D34E-E469-44C2-AF5D-22E5BD15F03C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

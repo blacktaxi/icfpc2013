@@ -1,0 +1,19 @@
+{
+    "easyChairId": "109",
+    "contestScore": 547,
+    "lightningScore": 249,
+    "trainingScore": 153,
+    "mismatches": 399,
+    "numRequests": 5682,
+    "requestWindow": {
+        "resetsIn": 1.709,
+        "amount": 1,
+        "limit": 5
+    },
+    "cpuWindow": {
+        "resetsIn": 1.709,
+        "amount": 0.8,
+        "limit": 20
+    },
+    "cpuTotalTime": 4975.86
+}
