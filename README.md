@@ -10,3 +10,5 @@ The idea of our solution was to run a search over candidate programs generated b
 We tried different optimization ideas in different places, but I think our solution was fundamentally sub-optimal.
 
 We had three mid-range laptops and one desktop computer at our disposal. The solver was ran on at most two of those at the same time.
+
+[Here's](http://www.reversemicrowave.me/blog/2013/08/29/icfpc2013/) an elaborate report.
